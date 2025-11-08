@@ -1,3 +1,9 @@
+## Problem Statement :-
+
+- The objective of this project is to analyze employee data to uncover key insights related to attrition trends, satisfaction levels, salary influence, and tenure patterns. By identifying high-risk departments, roles, and demographics, HR can design targeted retention strategies to improve employee engagement, reduce turnover, and strengthen workforce stability.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Dashboard Image](https://github.com/parthpatoliya97/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard_Image.png?raw=true)
 
 Live Dashboard Link :- [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTE2MmI5NDAtNDA0MC00YzRlLTgzZjEtMTgxOWY3MzQyM2I1IiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
