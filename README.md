@@ -11,27 +11,27 @@ The average employee tenure is **7** years, and the **average salary** stands at
 
 ## Key Insights :-
 
-**1. Job Role-wise Attrition** :-
+#### 1. Job Role-wise Attrition :-
 
 - The highest attrition occurs among **Laboratory Technicians (62)**, **Sales Executives (57)**, and **Research Scientists (47)**.
 
-Together, these roles contribute to **70%** of the total attrition.
+- Together, these roles contribute to **70%** of the total attrition.
 
 - Employee satisfaction scores in these departments are significantly lower than average, indicating issues related to workload, environment, or career progression.
 
-**2. Education Field** :-
+#### 2. Education Field :-
 
 - Employees from **Life Sciences (606)** and **Medical (464)** backgrounds represent **73%** of total attrition.
 
 - This suggests that employees from technical or specialized fields may face career stagnation or limited growth opportunities within the company.
 
-**3. Age Group** :-
+#### 3. Age Group :-
 
 - The **26–35** age group shows the highest attrition, a stage where professionals seek career advancement, better compensation, and work-life balance.
 
 - The **55+** age group shows the lowest attrition, indicating stable long-term employees nearing retirement.
 
-**4. Salary Slab** :-
+#### 4. Salary Slab :-
 
 - Lower salary brackets show a clear link to attrition:
 
@@ -43,43 +43,45 @@ Together, these roles contribute to **70%** of the total attrition.
 
 - Indicates dissatisfaction related to compensation competitiveness.
 
-**5. Years at Company** :-
+#### 5. Years at Company :-
 
 - A majority of employees leave within their first year, suggesting onboarding, culture fit, or job expectation gaps as potential causes.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Recommendations for HR Team :-
 
-**1. Focused Retention Programs**
+#### 1. Focused Retention Programs :-
 
 - Conduct exit interviews and employee satisfaction surveys in the Laboratory Technician, Sales Executive, and Research Scientist roles to identify specific pain points.
 
 - Implement mentorship programs and career growth plans to improve engagement in these critical roles.
 
-**2. Salary Structure Review** 
+#### 2. Salary Structure Review :-
 
 - Benchmark salaries against industry standards and consider incremental pay adjustments for employees earning below ₹10K.
 
 - Introduce performance-based incentives and recognition programs to retain high performers in low-salary brackets.
 
-**3. Strengthen Onboarding and Early Engagement** 
+#### 3. Strengthen Onboarding and Early Engagement :-
 
 - Develop a structured onboarding process with clear career path communication and buddy programs for new hires.
 
 - Schedule 30-60-90 day check-ins with managers to ensure new employees adapt well.
 
-**4. Career Development for Life Science and Medical Graduates**
+#### 4. Career Development for Life Science and Medical Graduates :-
 
 - Provide cross-departmental training and skill enhancement programs to allow movement into diverse roles.
 
 - Create research-oriented projects or internal innovation challenges to keep technically skilled employees engaged.
 
-**5. Retain 26–35 Age Group Employees**
+#### 5. Retain 26–35 Age Group Employees :-
 
 - Offer flexible work arrangements, internal promotions, and leadership development programs to address the aspirations of this dynamic group.
 
 - Review work-life balance policies and consider employee wellness initiatives.
 
-**6. Continuous Monitoring and Predictive Analytics**
+#### 6. Continuous Monitoring and Predictive Analytics :-
 
 - Develop a predictive attrition model using HR analytics to proactively identify at-risk employees.
 
