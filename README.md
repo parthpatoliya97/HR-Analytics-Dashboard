@@ -25,17 +25,23 @@ The average employee tenure is **7** years, and the **average salary** stands at
 
 - Employee satisfaction scores in these departments are significantly lower than average, indicating issues related to workload, environment, or career progression.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### 2. Education Field :-
 
 - Employees from **Life Sciences (606)** and **Medical (464)** backgrounds represent **73%** of total attrition.
 
 - This suggests that employees from technical or specialized fields may face career stagnation or limited growth opportunities within the company.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### 3. Age Group :-
 
 - The **26–35** age group shows the highest attrition, a stage where professionals seek career advancement, better compensation, and work-life balance.
 
 - The **55+** age group shows the lowest attrition, indicating stable long-term employees nearing retirement.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 4. Salary Slab :-
 
@@ -48,6 +54,8 @@ The average employee tenure is **7** years, and the **average salary** stands at
 - Together, this represents around **80%** of attrition cases.
 
 - Indicates dissatisfaction related to compensation competitiveness.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 5. Years at Company :-
 
