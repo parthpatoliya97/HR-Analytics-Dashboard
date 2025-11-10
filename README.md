@@ -65,7 +65,7 @@ The average employee tenure is **7** years, and the **average salary** stands at
 
 #### 2. Salary Structure Review :-
 
-- Benchmark salaries against industry standards and consider incremental pay adjustments for employees earning below ₹10K.
+- Benchmark salaries against industry standards and consider incremental pay adjustments for employees earning **below ₹10K**.
 
 - Introduce performance-based incentives and recognition programs to retain high performers in low-salary brackets.
 
@@ -73,7 +73,7 @@ The average employee tenure is **7** years, and the **average salary** stands at
 
 - Develop a structured onboarding process with clear career path communication and buddy programs for new hires.
 
-- Schedule 30-60-90 day check-ins with managers to ensure new employees adapt well.
+- Schedule **30-60-90** day check-ins with managers to ensure new employees adapt well.
 
 #### 4. Career Development for Life Science and Medical Graduates :-
 
